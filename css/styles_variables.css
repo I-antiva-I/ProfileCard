@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Kumbh+Sans:400;700&display=swap');
+
+:root
+{
+    --dark-cyan:                        hsl(185, 75%, 39%);
+    --very-darkd-desaturated-blue:      hsl(229, 23%, 23%);
+    --dark-grayish-blue:                hsl(227, 10%, 46%);
+    --dark-gray:                        hsl(0, 0%, 59%);
+
+
+    --font-size-name-and-stats:         18px;
+
+    --svg-width:                        978px;
+    --card-width:                       320px;
+    --image-width:                      96px;
+    --pattern-height:                   140px;
+}
